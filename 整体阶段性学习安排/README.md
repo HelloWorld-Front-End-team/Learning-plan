@@ -52,15 +52,15 @@ b. reactjs/angular/vue.js
 
 #### 第六阶段: 前端工程化
 
-a. 代码规范(jsLint,cssLint等)
+a. 代码规范
  
-b. 前端模块化(AMD,CommonJS,ES6 Module,less,sass)，前端组件化(各框架的组件化思想及Web components)
+b. 前端模块化，前端组件化
 
-c. 性能优化（语言精粹，算法优化，代码压缩，图片压缩，雪碧图等）
+c. 性能优化
 
-d. 前端自动化(gulp,webpack)
+d. 前端自动化
 
-e. 单元测试(mocha等）
+e. 单元测试
 
 f. 部署及版本管理
 
