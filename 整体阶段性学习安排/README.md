@@ -16,6 +16,7 @@ d. ps基本技能
 
 e. 代码书写格式
 
+
 #### 第二阶段：初探前端
 
 a. 前端开发知识体系概览
@@ -24,7 +25,9 @@ b. HTML系统学习
 
 c. CSS(3)系统学习
 
-d. JavaScript认识，初次接触
+d. 调试技巧
+
+e. JavaScript认识，初次接触
 
 #### 第三阶段: 基础强化
 
@@ -46,9 +49,11 @@ c. NodeJS平台
 
 #### 第五阶段： 进阶的设计模式思想及框架
 
-a. js设计模式
+a. 面向对象/函数式编程
 
-b. reactjs/angular/vue.js
+b. js设计模式
+
+c. reactjs/angular/vue.js
 
 #### 第六阶段: 前端工程化
 
